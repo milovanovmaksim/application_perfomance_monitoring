@@ -23,3 +23,5 @@
 **python backend_app.py --color red &**<br>
 **python backend_app.py --color blue --leak 10000 &**<br>
 **python backend_app.py --color green --leak 100000 &**<br>
+
+![My Image](grah.png)
