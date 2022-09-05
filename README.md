@@ -22,6 +22,6 @@
 Каждая будет обозначена своим цветом, который указан в командной строке:<br>
 **python backend_app.py --color red &**<br>
 **python backend_app.py --color blue --leak 10000 &**<br>
-**python backend_app.py --color green --leak 100000 &**<br>
-
+**python backend_app.py --color green --leak 100000 &**<br><br>
+На картинке представлен результат работы приложения в окне браузера<br>
 ![My Image](grah.png)
