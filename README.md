@@ -20,6 +20,6 @@
 Следующим шагом будет запуск всех экземпляров микросервиса.
 Они будут отправлять свои показатели использования ЦП и памяти сборщику (Collection layer).
 Каждая будет обозначена своим цветом, который указан в командной строке:<br>
-**python backend_app.py --color red**<br>
-**python backend_app.py --color blue --leak 10000**<br>
-**python backend_app.py --color green --leak 100000**<br>
+**python backend_app.py --color red &**<br>
+**python backend_app.py --color blue --leak 10000 &**<br>
+**python backend_app.py --color green --leak 100000 &**<br>
